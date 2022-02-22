@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Navbar.css'
-import {FaBars, FaTimes} from 'react-icons/fa'
 
 const Navbar = () => {
     return(
